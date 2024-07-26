@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace HotelHoteru
 {
-    public partial class luxury : Form
+    public partial class Thanks : Form
     {
-        public luxury()
+        public Thanks()
         {
             InitializeComponent();
         }
@@ -22,26 +22,15 @@ namespace HotelHoteru
         {
 
         }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            business luxury = new business();
-            luxury.Show();
-            this.Hide();
-        }
         public void openForm()
         {
-            Application.Run(new booking());
+            Application.Run(new Home());
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Close();
-            var thread = new Thread(openForm); thread.Start();
-        }
-
-        private void luxury_Load(object sender, EventArgs e)
-        {
-
+           this.Close();
+            var thread = new Thread(openForm);
+            thread.Start();
         }
     }
 }

@@ -1,7 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
 using System.Data.SQLite;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace HotelHoteru
 {
@@ -41,11 +48,6 @@ namespace HotelHoteru
 
             MessageBox.Show("Вы успешно добавили клиента! ");
             this.Close();
-
-        }
-
-        private void PLUSclient_Load(object sender, EventArgs e)
-        {
 
         }
     }

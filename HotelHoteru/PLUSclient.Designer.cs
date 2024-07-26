@@ -223,10 +223,8 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.Name);
             this.Controls.Add(this.label1);
-            this.Name = "PLUSclient";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "PLUSclient";
-            this.Load += new System.EventHandler(this.PLUSclient_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

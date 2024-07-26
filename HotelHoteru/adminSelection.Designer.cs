@@ -153,7 +153,6 @@
             this.Name = "adminSelection";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "adminSelection";
-            this.Load += new System.EventHandler(this.adminSelection_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

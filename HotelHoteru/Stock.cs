@@ -1,4 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace HotelHoteru
@@ -12,7 +19,6 @@ namespace HotelHoteru
         private Label label5;
         private Label label6;
         private Label label7;
-        private Button button2;
         private Button button3;
         private Button button4;
         private Label label2;
@@ -32,7 +38,6 @@ namespace HotelHoteru
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -144,19 +149,6 @@ namespace HotelHoteru
             this.label7.Text = "Так же к акциям идет спецпредложения:";
             this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
-            // button2
-            // 
-            this.button2.BackColor = System.Drawing.Color.Transparent;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button2.Font = new System.Drawing.Font("Century Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button2.ForeColor = System.Drawing.SystemColors.Control;
-            this.button2.Location = new System.Drawing.Point(587, 498);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(185, 51);
-            this.button2.TabIndex = 19;
-            this.button2.Text = "Забронировать";
-            this.button2.UseVisualStyleBackColor = false;
-            // 
             // button3
             // 
             this.button3.BackColor = System.Drawing.Color.Transparent;
@@ -192,7 +184,6 @@ namespace HotelHoteru
             this.ClientSize = new System.Drawing.Size(784, 561);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);

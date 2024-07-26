@@ -96,7 +96,6 @@
             this.Name = "delete_client";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "delete_client";
-            this.Load += new System.EventHandler(this.delete_client_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

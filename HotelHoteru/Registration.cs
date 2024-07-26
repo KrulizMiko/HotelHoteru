@@ -1,7 +1,19 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Net.Mail;
+using System.Net;
+using System.Text;
 using System.Threading;
+using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Web;
+using Microsoft.Data.Sqlite;
 using System.Data.SQLite;
+using System.Runtime.InteropServices;
 
 namespace HotelHoteru
 {
@@ -53,7 +65,7 @@ namespace HotelHoteru
         {
             #region запись клиентов в базу данных
             //БАЗА ДАННЫХ В DB BROWSER FOR SQLITE
-            string connection = "Data Source=DBshka.db;";
+            string connection = "Data Source=Dok4.db;";
             SQLiteConnection DB = new SQLiteConnection(connection);
             DB.Open();
             var Nam = tName.Text;

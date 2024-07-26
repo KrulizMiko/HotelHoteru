@@ -1,5 +1,16 @@
-﻿using System;
+﻿using DocumentFormat.OpenXml.Office2010.Word;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.ComponentModel.Design;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Net;
+using System.Security.Cryptography.X509Certificates;
+using System.Text;
 using System.Threading;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace HotelHoteru

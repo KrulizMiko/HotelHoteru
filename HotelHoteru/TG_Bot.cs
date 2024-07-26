@@ -1,4 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
 using Telegram.Bot;
 using Telegram.Bot.Args;
 using Telegram.Bot.Types.ReplyMarkups;
@@ -12,9 +17,7 @@ namespace HotelHoteru
 
         [Obsolete]
         static void BOTСom()//не работает 
-                            //не компелируется параллельно этот файлик БОТА
-          //бот нихуя не работает, даже не пытайтесь что то спиздить))) 
-
+          //не компелируется параллельно этот файлик БОТА
 
         {
             bot = new TelegramBotClient("6937445762:AAEFcWQadZh-52YthmLre3aBFNXS9Kv6i00");
