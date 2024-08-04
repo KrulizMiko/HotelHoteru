@@ -1,0 +1,1 @@
+This is my first project that I did in college. I put all the new knowledge into it at once, specifically what I learned and what was interesting in terms of writing code. My classmate Bragin was in the team, he was responsible for the design and documentation of the project. Enjoy watching!
