@@ -1,0 +1,19 @@
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\bin\Debug\net7.0\Hotel Hoteru Telegram.exe
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\bin\Debug\net7.0\Hotel Hoteru Telegram.deps.json
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\bin\Debug\net7.0\Hotel Hoteru Telegram.runtimeconfig.json
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\bin\Debug\net7.0\Hotel Hoteru Telegram.dll
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\bin\Debug\net7.0\Hotel Hoteru Telegram.pdb
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\bin\Debug\net7.0\Telegram.Bot.dll
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\obj\Debug\net7.0\Hotel Hoteru Telegram.csproj.AssemblyReference.cache
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\obj\Debug\net7.0\Hotel Hoteru Telegram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\obj\Debug\net7.0\Hotel Hoteru Telegram.AssemblyInfoInputs.cache
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\obj\Debug\net7.0\Hotel Hoteru Telegram.AssemblyInfo.cs
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\obj\Debug\net7.0\Hotel Hoteru Telegram.csproj.CoreCompileInputs.cache
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\obj\Debug\net7.0\Hotel Hoteru Telegram.sourcelink.json
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\obj\Debug\net7.0\Hotel Ho.D96E720D.Up2Date
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\obj\Debug\net7.0\Hotel Hoteru Telegram.dll
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\obj\Debug\net7.0\refint\Hotel Hoteru Telegram.dll
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\obj\Debug\net7.0\Hotel Hoteru Telegram.pdb
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\obj\Debug\net7.0\Hotel Hoteru Telegram.genruntimeconfig.cache
+C:\Users\vorob\Desktop\Clone\HotelHoteru\Hotel Hoteru Telegram\obj\Debug\net7.0\ref\Hotel Hoteru Telegram.dll
